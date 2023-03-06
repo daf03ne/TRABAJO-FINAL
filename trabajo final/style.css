@@ -1,0 +1,139 @@
+.titulo {
+    color:aliceblue;
+    font-family:'Times New Roman', Times, serif;
+    font-size:xx-large;
+    text-align: center;
+}
+p {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.subtitulos {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:saddlebrown;
+}
+li {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+b {
+    color:chocolate;
+    font-size: x-large;
+}
+
+
+ul {
+    list-style: none;
+}
+.lista {
+    display:flex;
+    justify-content: space-between;
+    width: 30%;
+    height: 10%;
+}
+.bordes {
+    border-style: groove;
+    border-width: 5px;
+    padding: 5%;
+    width: 10%;
+
+}
+body {
+    background-image: url(perritos.jpg);
+    
+}
+
+header {
+    background-color: rgba(132, 78, 13, 0.799);
+    padding: 1px;
+    width: 100%;
+
+}
+footer {
+    background-color: rgb(132, 78, 13);
+    text-align: center;
+}
+main {
+    background-color: rgba(240, 248, 255, 0.801);
+    text-align: center;
+}
+html {
+    max-width: 1000%;
+}
+.img-rendonda {
+    width:300px;
+    height:300px;
+    border-radius:150px;
+}
+/* 
+
+
+.grid-container {
+    max-width: 1000%;
+    border-radius: 4px;
+    padding: 10px;
+    text-align: center;
+    display: grid;
+    gap: 20px;
+    grid-template-areas: 
+        "header header"
+        "nav nav"
+        "main aside"
+        "footer footer"        
+    
+    ;
+    grid-template-columns:auto ;
+    grid-template-rows:  ;
+         
+}
+
+.aside {
+    background: rgba(173, 216, 230, 0.777);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    padding: 30px;
+    grid-area: aside;
+
+
+}
+.header {
+    background-color:rgba(23, 107, 87, 0.756);
+    width: 100%;
+    height: 13%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem; 
+    padding:8px;
+    grid-area: header;
+    
+}
+.footer {
+    background-color:rgba(255, 228, 196, 0.734);
+    width: 100%;
+    height: 5%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+    padding: 3px;
+    grid-area: footer;
+
+}
+    
+   
+.nav {
+    background-color: rgba(255, 228, 196, 0.712);
+    padding: 3px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.3rem;
+    grid-area: nav;
+
+}
+.main {
+    background-color: rgba(240, 255, 255, 0.723);
+    padding: auto;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    grid-area: main;
+
+}
+*/
